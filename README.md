@@ -46,16 +46,7 @@ int main(void)
 	return 0; }
 
 ##OUTPUT
-
-$ ./pidcheck.o 
-The process id: 2382
-The process id of parent function: 2258
-
-$ ps 
-  PID TTY          TIME CMD
- 2258 pts/0    00:00:00 bash
- 2392 pts/0    00:00:00 ps
-```
+![op1](https://github.com/Ibrahimovic07/Linux-Process-API-fork-wait-exec/assets/109091628/2593947e-f4fe-46f3-9d28-0552cf52e591)
 
 ## C Program to create new process using Linux API system calls fork() and exit()
 
